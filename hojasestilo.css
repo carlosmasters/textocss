@@ -1,0 +1,14 @@
+.estiloTexto {
+    color: darkblue;
+    text-align: right;
+    direction: ltr; /*left to right, right to left */
+    text-decoration: line-through;
+    text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+    text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 2px 2px greenyellow; /*2px de sombra horizontal y vertical*/
+    /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+   }
